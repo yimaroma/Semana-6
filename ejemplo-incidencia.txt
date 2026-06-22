@@ -1,0 +1,4 @@
+{
+  "tipo": "Basuras",
+  "descripcion": "En el barrio hay acumulación de residuos desde hace varios días y no ha pasado el servicio de recolección."
+}
