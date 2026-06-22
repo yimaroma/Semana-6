@@ -1,0 +1,9 @@
+Es importante que las plataformas tecnológicas puedan recibir reportes de los ciudadanos de 
+forma estructurada porque facilita la organización y el análisis de la información.
+Cuando los datos se envían en formatos como JSON, las aplicaciones pueden procesarlos 
+de manera más rápida y eficiente. Esto permite a las instituciones tomar decisiones
+basadas en información clara y ordenada. Además, mejora la comunicación entre la comunidad y las
+entidades responsables. También ayuda a hacer seguimiento a problemas como fallas en servicios
+públicos o situaciones sociales. El uso de estructuras como req.body en Express permite capturar
+estos datos fácilmente. De esta manera, se pueden crear soluciones tecnológicas más efectivas.
+En general, contribuye al desarrollo de ciudades más organizadas y participativas.
